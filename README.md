@@ -3,9 +3,9 @@ A trading strategy is a set of rules to follow for desicions regarding buying an
 
 #### *Packages and Frameworks*
 Three main packages and frameworks were used: QuantConnect, LEAN Engine, and DEAP. 
-1. Quantconnect is a browser/cloud-based, open-source, algorithmic trading platform where engineers can develop, execute, and backtest their strategies for a multitude of equities. QuantConnect provides their own trading API for market access and trading manipulation. 
-2. LEAN Engine: QuantConnect’s CLI backtesting framework. This allowed us to script the backtests and incorporate the Genetic algorithm alongside it, which was done through DEAP. 
-3. Distributed Evolutionary Algorithms in Python (DEAP) is an evolutionary computation framework that allows for accelerated testing/“prototyping” of ideas. I used genetic algorithms from this framework. With these packages I was able to successfully develop, backtest, and evolve our trading strategy.
+1. [Quantconnect](https://www.quantconnect.com/ "Quantconnect") is a browser/cloud-based, open-source, algorithmic trading platform where engineers can develop, execute, and backtest their strategies for a multitude of equities. QuantConnect provides their own trading API for market access and trading manipulation. 
+2. [LEAN Engine](https://www.lean.io/cli/ "LEAN Engine"): QuantConnect’s CLI backtesting framework. This allowed us to script the backtests and incorporate the Genetic algorithm alongside it, which was done through DEAP. 
+3. [Distributed Evolutionary Algorithms in Python](https://deap.readthedocs.io/en/master/ "Distributed Evolutionary Algorithms in Python") (DEAP) is an evolutionary computation framework that allows for accelerated testing/“prototyping” of ideas. I used genetic algorithms from this framework. With these packages I was able to successfully develop, backtest, and evolve our trading strategy.
 
 
 ### Background
