@@ -43,19 +43,21 @@ Iteration | Best Fitness | Average Fitness
 **8** | **89** | **82**
 **9** | **89** | **83**
 
+##### Table of Training/Testing Graphs and Statistics
 
+Iteration | Training | Testing
+:---: | :---: | :---: |
+0 | <img src="/Images/120-20-50_Dark.JPG" > | <img src="/Images/120-20-50_Dark_TESTED.jpg" >
+5 | <img src="/Images/60-35-33_Dark.JPG" > | <img src="/Images/60-35-33_Dark_TESTED.jpg" >
+9 | <img src="/Images/66-42-9_Dark.JPG" > | <img src="/Images/66-42-9_Dark_TESTED.jpg" >
 
-<img src="/Images/120-20-50_Dark.JPG" >
-<img src="/Images/120-20-50_Dark_TESTED.jpg" >
-<img src="/Images/120-20-50_Light.JPG" >
+##### Table of Training/Testing Returns
 
-<img src="/Images/60-35-33_Dark.JPG" >
-<img src="/Images/60-35-33_Dark_TESTED.jpg" >
-<img src="/Images/60-35-33_Light.JPG" >
-
-<img src="/Images/66-42-9_Dark.JPG" >
-<img src="/Images/66-42-9_Dark_TESTED.jpg" >
-<img src="/Images/66-42-9_Light.JPG" >
+Iteration | Training Score | Testing Score
+:---: | :---: | :---: |
+0 | 24.71% | 22.23%
+5 | 62.89% | 57.99%
+9 | 88.33% | 38.83%
 
 ### Conclusion and Future Work
 
